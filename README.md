@@ -1,7 +1,7 @@
 # Minimize Bounding Box Volume - Blender Addon
 
 ## Installation
-1. Right click [this link](https://raw.githubusercontent.com/japuzen/bpy-pack/master/PackingAddon.py) and click *Save Link As* to download the Python file.
+1. Right click [this link](https://raw.githubusercontent.com/japuzen/bpy-pack/master/MinimizeBoundBoxAddon.py) and click *Save Link As* to download the Python file.
 2. In Blender, go to *Edit > Preferences*.
 
 ![](https://github.com/japuzen/bpy-pack/blob/master/images/Addon%20Doc%20-%20Edit>Preferences.png)
