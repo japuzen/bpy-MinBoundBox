@@ -24,5 +24,5 @@
 ## Info
 &nbsp;&nbsp;&nbsp;&nbsp;The Minimize Bounding Box add-on, as the name suggests, automatically minimizes the bounding box volume of selected objects in Blender. It will take several seconds to process each object. Run time depends on the complexity of the objects, meaning objects with higher poly counts will take longer to process. There is a step in the add-on that will decimate the object and work with a lower poly count duplicate to counteract this.
 
-![](images/Addon%20Doc%20-%20MinBound%20Suzanne.png)
-![](images/Addon%20Doc%20-%20MinBound%20L.png)
+<img src="images/Addon%20Doc%20-%20MinBound%20Suzanne.png" height="75%" width="75%" align="center">
+<img src="images/Addon%20Doc%20-%20MinBound%20L.png" height="75%" width="75%" align="center">
