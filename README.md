@@ -7,7 +7,7 @@
 
 ![](https://github.com/japuzen/bpy-pack/blob/master/images/Addon%20Doc%20-%20Edit>Preferences.png)
 
-3. In *Addons* click *Install* and find the *PackingAddon.py* file.
+3. In *Addons* click *Install* and find the *MinimizeBoundBoxAddon.py* file.
 
 ![](https://github.com/japuzen/bpy-pack/blob/master/images/Addon%20Doc%20-%20Addon%20Install.png)
 
