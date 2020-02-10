@@ -15,7 +15,7 @@
 
 ## Usage
 1. Select the objects.
-2. Click the ***Minimize Bounding Box*** operator at the bottom of the ***Object*** dropdown menu. You can also the *Search* function in Blender to find the operator.
+2. Click the ***Minimize Bounding Box*** operator at the bottom of the ***Object*** dropdown menu. You can also use the *Search* function in Blender to find the operator (the default keybinding is F3).
 
 ![](images/Addon%20Doc%20-%20Object%20Dropdown.png)
 
